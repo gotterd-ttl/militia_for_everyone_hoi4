@@ -1,0 +1,5 @@
+militia_category = {
+	icon = generic_propaganda
+	priority = 30
+	visible_when_empty = no
+}

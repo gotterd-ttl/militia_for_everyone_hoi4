@@ -1,0 +1,4 @@
+﻿l_simp_chinese:
+ militia_category: "民兵"
+ raise_militia: "征召民兵"
+ militia_rises_tt: "民兵将出现在师级编辑器中。"
