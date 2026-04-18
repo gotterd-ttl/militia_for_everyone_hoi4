@@ -1,0 +1,11 @@
+on_actions = {
+    on_startup = {
+	    effect = {
+		    every_possible_country = {
+			    set_technology = {
+				    militia_tech = 1
+				}
+			}
+		}
+	}
+}
